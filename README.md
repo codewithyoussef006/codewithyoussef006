@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Youssef 👋
+
+🎓 I'm a self-taught developer from Morocco, currently studying at 1337 School.  
+💻 Passionate about web development, React, and Python.  
+🌍 Open to remote work and international opportunities.  
+📈 Building real-world projects and improving daily.
+
+---
+
+### 🚀 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express, Python (FastAPI)
+- Tools: Git, GitHub, VS Code, Linux
+
+---
+
+📫 Reach me: youssef7blg@gmail.com 
+🔗 LinkedIn: [linkedin.com/in/youssef](https://linkedin.com)
+
 
 <!--
 **codewithyoussef006/codewithyoussef006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
