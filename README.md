@@ -15,7 +15,7 @@
 ---
 
 📫 Reach me: youssef7blg@gmail.com 
-🔗 LinkedIn: [linkedin.com/in/youssef](https://linkedin.com)
+🔗 LinkedIn: www.linkedin.com/in/youssef-boulegriss-b1aa37372
 
 
 <!--
